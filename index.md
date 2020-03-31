@@ -5,7 +5,7 @@ We provide material including several video tutoials, blog posts with multiple d
 ![Sand Dune Migration in New Mexico](https://cloud.sdsc.edu:443/v1/AUTH_opentopography/www/images%2Fsand_dunes_NM.gif)
 
 ## Tutorials: 
-
+These YouTube tutorials walk users through the topographic differencing workflow on OpenTopography. 
 [Vertical differencing Tutorial](https://youtu.be/BlDx66AQ3G0)
 
 [3D differencing Tutorial](https://youtu.be/OoIasU4yMeQ)
