@@ -6,6 +6,7 @@ We provide material including several video tutoials, blog posts with multiple d
 
 ## Tutorials: 
 These YouTube tutorials walk users through the topographic differencing workflow on OpenTopography. 
+
 [Vertical differencing Tutorial](https://youtu.be/BlDx66AQ3G0)
 
 [3D differencing Tutorial](https://youtu.be/OoIasU4yMeQ)
