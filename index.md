@@ -4,6 +4,8 @@ Paragraph about topographic differencing.
 
 We provide material including several video tutoials, blog posts with multiple differencing examples, links to GitHub code respositories, material presented at workshops, and undergraduate differencing exercise. 
 
+![Sand Dune Migration in New Mexico](https://cloud.sdsc.edu:443/v1/AUTH_opentopography/www/images%2Fsand_dunes_NM.gif)
+
 ## Topographic differencing tutorials: 
 
 [Vertical differencing Tutorial](https://youtu.be/BlDx66AQ3G0)
