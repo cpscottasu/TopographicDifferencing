@@ -24,3 +24,8 @@ These blog posts show several examples of vertical and 3D topographic differenci
 [3D differencing C++](https://github.com/OpenTopography/libicp)
 
 [3D Differencing Python & Matlab](https://github.com/OpenTopography/3D_Differencing)
+
+
+## Undergraduate topographic differening exercise:
+
+[Link to exercise](https://opentopography.org/learn/ugrad_differencing)
