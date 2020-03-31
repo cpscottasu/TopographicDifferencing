@@ -6,8 +6,8 @@ We provide material including several video tutoials, blog posts with multiple d
 
 ## Topographic differencing tutorials: 
 
-[Vertical differencing:](https://youtu.be/BlDx66AQ3G0)
-
+[Vertical differencing Tutorial](https://youtu.be/BlDx66AQ3G0)
+[3D differencing Tutorial](https://youtu.be/OoIasU4yMeQ)
 
 ### Markdown
 
