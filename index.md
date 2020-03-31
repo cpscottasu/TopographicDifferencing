@@ -6,7 +6,7 @@ We provide material including several video tutoials, blog posts with multiple d
 
 ## Topographic differencing tutorials: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Vertical differencing: https://youtu.be/BlDx66AQ3G0
 
 
 ### Markdown
