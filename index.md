@@ -1,4 +1,4 @@
-#Topographic Differencing 
+# Topographic Differencing 
 
 Paragraph about topographic differencing. 
 
@@ -6,10 +6,17 @@ We provide material including several video tutoials, blog posts with multiple d
 
 ![Sand Dune Migration in New Mexico](https://cloud.sdsc.edu:443/v1/AUTH_opentopography/www/images%2Fsand_dunes_NM.gif)
 
-## Topographic differencing tutorials: 
+## Tutorials: 
 
 [Vertical differencing Tutorial](https://youtu.be/BlDx66AQ3G0)
 [3D differencing Tutorial](https://youtu.be/OoIasU4yMeQ)
+
+## Blog Posts: 
+These blog posts show several examples of vertical and 3D topographic differencing. The 3D differencing blog also includes a technical overview of how the iterative closest point (ICP) algorithm is applied to geologic processes. 
+
+[Vertical differencing](https://opentopography.org/blog/topographic-differencing-showcase)
+[3D differencing](https://opentopography.org/blog/demand-3d-topographic-differencing)
+
 
 ### Markdown
 
