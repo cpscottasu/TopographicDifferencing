@@ -19,7 +19,7 @@ These blog posts show several examples of vertical and 3D topographic differenci
 [3D differencing](https://opentopography.org/blog/demand-3d-topographic-differencing)
 
 ## Differencing Workshop: 
-[Workshop link](https://opentopography.org/blog/topographic-differencing-showcase): This constrains the Matlab code and example datasets to use to learn how the iterative closest point (ICP) works
+[Workshop link](https://opentopography.org/blog/topographic-differencing-showcase): This constains the Matlab code and example datasets to use to learn how the iterative closest point (ICP) works. This was originally part of the 2018 EarthCube Research Coordination Network Workshop - Advancing the Analysis of High Resolution Topography (A2 HRT). 
 
 ## GitHub Code Repositories:
 
