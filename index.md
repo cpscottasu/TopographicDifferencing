@@ -18,6 +18,9 @@ These blog posts show several examples of vertical and 3D topographic differenci
 
 [3D differencing](https://opentopography.org/blog/demand-3d-topographic-differencing)
 
+## Differencing Workshop: 
+[Workshop link](https://opentopography.org/blog/topographic-differencing-showcase): This constrains the Matlab code and example datasets to use to learn how the iterative closest point (ICP) works
+
 ## GitHub Code Repositories:
 
 [Vertical differencing](https://github.com/OpenTopography/Vertical_Differencing)
@@ -29,4 +32,6 @@ These blog posts show several examples of vertical and 3D topographic differenci
 
 ## Undergraduate topographic differening exercise:
 
-[Link to exercise](https://opentopography.org/learn/ugrad_differencing)
+[Link to exercise](https://github.com/cpscottasu/ICP_Topo_Diff_Matlab)
+
+Funding Acknowledgment: OpenTopography is supported by the National Science Foundation under Award Numbers 1833703, 1833643 & 1833632
