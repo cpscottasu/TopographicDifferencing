@@ -1,6 +1,6 @@
 # Topographic Differencing 
 
-Topographic differencing reveals surface change from a variety of tectonic, geomorphic, and anthropogenic processes including earthquakes, volcanic eruptions, river erosion, landslides, sand dune migration, and urban development. Differencing techniques have grown in popularity over the past decade as the number of multi-temporal topographic datasets have increased.  
+Topographic differencing reveals surface change from a variety of tectonic, geomorphic, and anthropogenic processes including earthquakes, volcanic eruptions, river erosion, landslides, sand dune migration, and urban development. Differencing techniques have grown in popularity over the past decade as the number of multi-temporal topographic datasets has increased.  
 
 Vertical differencing is the subtraction of gridded elevation data (a.k.a. raster or digital elevation models (DEMs)) that span an event of interest. Early application of this method focused on rivers, although the technique has since been applied to a broader case set. 3D differencing is calculated with a windowed implementation of the Iterative Closest Point (ICP) algorithm. This approach works best with the landscape shifts laterally, for example in a surface rupturing earthquake. 
 
