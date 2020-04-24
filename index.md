@@ -9,7 +9,7 @@ Here, we have compilied the set of resources produced by OpenTopography about to
 ![Sand Dune Migration in New Mexico](https://cloud.sdsc.edu:443/v1/AUTH_opentopography/www/images%2Fsand_dunes_NM.gif)
 
 ## Tutorials: 
-These YouTube tutorials walk users through how to perform on-demand topographic differencing on OpenTopography.Currently, OpenTopography has over 45 dataset pairs with vertical and 3D differencing enabled. 
+These YouTube tutorials walk users through how to perform on-demand topographic differencing on OpenTopography. Currently, OpenTopography has over 45 dataset pairs with vertical and 3D differencing enabled. 
 
 [Vertical differencing Tutorial](https://youtu.be/BlDx66AQ3G0)
 
@@ -39,6 +39,6 @@ These blog posts show several examples of vertical and 3D topographic differenci
 
 ## Undergraduate topographic differening exercise:
 
-[Link to exercise](https://github.com/cpscottasu/ICP_Topo_Diff_Matlab)
+[Link to exercise](https://opentopography.org/learn/ugrad_differencing)
 
 Funding Acknowledgment: OpenTopography is supported by the National Science Foundation under Award Numbers 1833703, 1833643 & 1833632
