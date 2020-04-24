@@ -26,7 +26,9 @@ These blog posts show several examples of vertical and 3D topographic differenci
 [Workshop link](https://opentopography.org/blog/topographic-differencing-showcase): 2018 EarthCube Research Coordination Network Workshop - Advancing the Analysis of High Resolution Topography (A2 HRT). This includes several lectures on topographic differencing and tutorial material on several topographic differencing methods. 
 
 [Principles of topographic change detection By Dr. Joe Wheaton](https://youtu.be/QIoK52W5sUM)
+
 [Challenges with change detection" & introduction to PIV change detection By Dr. Craig Glennie](youtu.be/OMk7A2CjUP0)
+
 [3D Topographic Differencing of Meter-Scale Topography By Dr. Chelsea Scott](https://youtu.be/MoIc3mLO8O8)
 
 
